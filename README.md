@@ -5,6 +5,7 @@ _Disclaimer: I haven't read all the texts listed below, but I'm working on that.
 ## Definition
 
 1. What is DevOps? [http://theagileadmin.com/what-is-devops/]
+2. What the hell is DevOps? [http://www.toptal.com/devops/what-the-hell-is-devops]
 
 ## Culture
 
